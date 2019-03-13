@@ -1,0 +1,14 @@
+{
+  "uuid": "9b0a0cf8-ca15-4598-ade1-28ecaac8e503",
+  "name": "rfire",
+  "title": "rfire ",
+  "description": "RfireTV Live",
+  "long-description": "Live Streaming App for RWS",
+  "version": "",
+  "author-name": "Ryan",
+  "author-email": "build@evothings.com",
+  "author-url": "https://ryanswebsite.us.to",
+  "cordova-id": "com.evothings.samples.Rfire",
+  "plugins": [],
+  "libraries": []
+}
